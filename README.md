@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A very brief program that makes use of event-driven programming 
+A very brief C# Windows Form App that makes use of event-driven programming. 
 
 ## Screenshots
 
