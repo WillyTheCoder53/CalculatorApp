@@ -6,7 +6,7 @@ A very brief program that makes use of event-driven programming
 
 ## Screenshots
 
-<img width="406" height="744" alt="image" src="https://github.com/user-attachments/assets/a3278ed8-ed37-46ab-9a11-1e478458f375" />
+<img width="203" height="372" alt="image" src="https://github.com/user-attachments/assets/a3278ed8-ed37-46ab-9a11-1e478458f375" />
 
 ### Exponent example:
 
